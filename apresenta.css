@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color:#FFFFFF;
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	}
+xmp:hover {
+	background-color:#ffDD00;
+	}
+xmp {
+	font-size:larger;
+	}
+	
